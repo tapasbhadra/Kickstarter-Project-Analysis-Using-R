@@ -9,3 +9,5 @@ I have used and evaluated different machine learning algorithms to predict if a 
 4) Logistic Regression
 
 I have performed feature engineering to select the best features from a set of 50 features and used techniques like Binning, Normalization, cross validation and have created the fitting curves. 
+
+I have used R and R studio for this analysis along with libraries liek Tidyverse, GGplot and Text2vect
